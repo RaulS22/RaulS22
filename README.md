@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Raul Santos. I'm from Brazil.
+- 👋 Hi, I’m Raul Santos. 
 - 💻 I'm studying Engineering Physics at Universidade de São Paulo (USP)
-- 👀 I’m interested in Machine Learning and omputational physics.
+- ❤️ I love Linux, Physics and machine learning.
 - 🌱 I’m currently learning Machine Learning.
 
 - 📫 How to reach me rau1d3as@gmail.com
