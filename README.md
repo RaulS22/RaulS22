@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raul Santos. 
 - 💻 I'm studying Engineering Physics at Universidade de São Paulo (USP)
 - ❤️ I love Linux, Physics and machine learning.
-- 🌱 I’m currently learning git.
+- 🌱 I’m currently learning Java.
 
 - 📫 How to reach me rau1d3as@gmail.com
 
