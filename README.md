@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raul Santos. 
-- 💻 I'm studying Engineering Physics at Universidade de São Paulo (USP)
+- 💻 I'm studying Physical Engineering at Universidade de São Paulo (USP)
 - ❤️ I love Linux, Physics and machine learning.
 - 🌱 I’m currently learning Python.
 
