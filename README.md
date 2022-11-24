@@ -3,7 +3,7 @@
 - ❤️ I love Linux, Physics and machine learning.
 - 🌱 I’m currently learning Python.
 
-- 📫 How to reach me rau1d3as@gmail.com
+- 📫 How to reach me raulsantos13@usp.br
 
 <!---
 RaulS22/RaulS22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
