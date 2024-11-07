@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raul Santos. 
-- 💻 B.Sc. Engineering Physics at Universidade de São Paulo (USP) (on going)
+- 💻 B.Sc. Engineering Physics at Universidade de São Paulo (USP)
 - ❤️ I love Linux, Physics and Python.
 - 🌱 I’m currently studying OOP.
 
@@ -18,7 +18,7 @@
 ##
 <div>
 
-<a href="https://br.linkedin.com/in/raul-santos-a53953272" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raul-de-assis-santos-a53953272" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
